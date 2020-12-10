@@ -18,7 +18,8 @@
     "gatsby-source-filesystem": "^2.7.0",
     "gatsby-transformer-remark": "^2.12.0",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "slug": "^4.0.2"
   },
   "devDependencies": {
     "prettier": "2.1.2"
